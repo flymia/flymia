@@ -1,19 +1,28 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
 <h3 align="center">A Linux-Sysadmin from Cologne, Germany. I try to contribute to awesome open source projects.</h3>
 
-- 🔭 I’m currently working on [molecule-dockerfiles](https://github.com/flymia/molecule-dockerfiles.git) and other Ansible related projects.
+<h4>A few facts about myself:</h4>
 
-- 🌱 I’m currently learning **CI/CD and automatic deployment.**
+- 🏢 I'm working for the german government and manage VMware clusters, automated Linux environments using Ansible and SaltStack combined with Red Hat Satellite / SUSE Manager.
+- 🖥️ I mostly use macOS, since I'm a macOS nerd and support the current ARM movement heavily!
+- 🤑 My homelab consists of one "big" NAS running one CheckMK VM and a Raspberry Pi 4. It used to be a lot bigger but power costs in Germany are insane.
+- 📷 In my free time I do a lot of street photography, go to the gym, play badminton or travel the world.
+- 📫 You can reach me here: **hello [at] marcsauer.net**
 
-- 💻 I want to help projects to make easier installations with macOS using Homebrew, so I create and maintain "Casks" like [this](https://github.com/flymia/homebrew-vectoraudio)
+<h4>A few of my tech projects I did in my career until now:</h4>
 
-- 👯 I’m looking to collaborate on my Ansible roles, such as [ansible-speedtest_go](https://github.com/flymia/ansible-speedtest_go.git)
-
-- 💬 Ask me about **Linux and macOS**
-
-- 📫 How to reach me **hello [at] marcsauer.net**
+- Migration of a SLES environment with SUSE Manager to a complete new RHEL infrastructure with Red Hat Satellite (automation, patch- and configmanagement)
+- Migration of a virtualization cluster from oVirt to Proxmox VE
+- Architecture design and implementation of a 600+ users Nextcloud instance
+- Implementation of Shibboleth (SAML) for a University with 600+ users
+- Migration from Solaris 10 to Solaris 11 in a highly available environment (99,99%)
+- Network infrastructure engineering (VLANs, firewalls, switches, routers)
+- Migration of VMware vSphere clusters from version 6 to 7
+- Implementation of an SMS alarm system for a datacenter
+- Migration of Hitachi HDS Storage SAN to NetApp SAN
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/officialventor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="officialventor" height="30" width="40" /></a>
 </p>
