@@ -5,8 +5,8 @@
 
 - 🏢 I manage VMware clusters, automate Linux environments using Ansible and SaltStack combined with Red Hat Satellite / SUSE Manager.
 - 🖥️ I mostly use macOS, since I'm a macOS nerd and support the current ARM movement heavily!
-- 🤑 My homelab consists of one NAS (Synology DS218+), a Raspberry Pi 4 and an old HP Thin Client (t520). It used to be a lot bigger but power costs in Germany are insane.
-- 📷 In my free time I do a lot of photography, go to the gym, play badminton or travel the world.
+- 🤑 My homelab consists of one NAS (Synology DS218+) and a Proxmox VE host (Lenovo ThinkCentre Tiny). It used to be a lot bigger but power costs in Germany are insane.
+- 📷 In my free time I do a lot of photography, ride my motorcycle, go to the gym, play badminton or travel the world.
 - 📫 You can reach me here: **hello [at] marcsauer.net**
 
 <h4>A few of my tech projects I did in my career until now:</h4>
